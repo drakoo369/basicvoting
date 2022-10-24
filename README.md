@@ -1,2 +1,2 @@
-# palmeratest
-Prueba Palmera test usando React + Styled components + Web3 + Solidity
+# Voting website
+Basic voting website using: React + Web3.js + Solidity
